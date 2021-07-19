@@ -15,7 +15,7 @@ Projeto pratico para fins didaticos 🧐, e para praticar as tecnologias estudad
 <div align="center" id="imagem-apresetations">
   <img src="./images/bg.jpg" alt="Pagina inicial">
   <img src="./images/logo.png" alt="pagina da seção meio">
-  <img src="">
+  <!--<img src="">-->
 
 
 
