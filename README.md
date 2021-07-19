@@ -13,7 +13,7 @@
 Projeto pratico para fins didaticos 🧐, e para praticar as tecnologias estudadas durante o curso que estou realizando. Projeto com uso do Flex Box 🟦 e HTML5 semantico 🥰, 100% responsivo.
 
 <div align="center" id="imagem-apresetations">
-  <img src="./images/bg.png" alt="Pagina inicial">
+  <img src="./images/bg.jpg" alt="Pagina inicial">
   <img src="./images/logo.png" alt="pagina da seção meio">
   <img src="">
 
